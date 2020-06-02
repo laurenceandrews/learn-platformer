@@ -1,2 +1,2 @@
 # learn-platform
- Unity Learn's Platformer Microgame
+ Unity Learn's platformer microgame
